@@ -12,6 +12,7 @@ public class SliderController : MonoBehaviour
 
     private void Start()
     {
+        slider.value = defaultDragDistanceMultiplier;
         float savedValue = PlayerPrefs.GetFloat("DragDistanceMultiplier", defaultDragDistanceMultiplier);
         slider.value = savedValue;
         scriptWithVariable = GetComponent<LaunchableObject>();
