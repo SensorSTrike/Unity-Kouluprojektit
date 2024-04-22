@@ -361,6 +361,7 @@
 "Assets/Scripts/GameStartScripts/SettingsPanel.cs"
 "Assets/Scripts/GameStartScripts/SliderController.cs"
 "Assets/Scripts/GameStartScripts/TutorialPanel.cs"
+"Assets/Scripts/inGameSettingsButton.cs"
 "Assets/Scripts/LaunchPowerController.cs"
 "Assets/Scripts/PlayGame.cs"
 "Assets/Scripts/ScoreSystem.cs"
