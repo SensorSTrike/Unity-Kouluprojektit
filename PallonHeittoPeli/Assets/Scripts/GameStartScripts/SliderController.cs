@@ -8,7 +8,7 @@ public class SliderController : MonoBehaviour
 
     // Default value for the slider
     private float defaultDragDistanceMultiplier = 50f;
-    public static float sliderValue = 20;
+    public static float sliderValue;
     public float savedValue; 
 
     private void Start()
