@@ -12,11 +12,11 @@ public class LaunchableObject : MonoBehaviour
     public Slider launchSlider; // Reference to the slider UI component
     private bool isDragging = false;
     private BallCollision ballCollision;
-    public float dragDistanceMultiplier; // Adjust this multiplier to control drag distance
+    public float dragDistanceMultiplier;
 
-    void Start()
+    public void Start()
     {
-        dragDistanceMultiplier = PlayerPrefs.GetFloat("DragDistanceMultiplier", 50f);
+        dragDistanceMultiplier = PlayerPrefs.GetFloat("DragDistanceMultiplier", SliderController.sliderValue);
         rb = GetComponent<Rigidbody>();
         // Ensure slider value matches initial launch force
         ballCollision = GetComponent<BallCollision>(); // Assign BallCollision component
@@ -77,7 +77,7 @@ public class LaunchableObject : MonoBehaviour
         // Destroy the arrow when the user releases the mouse
         Destroy(arrow);
         ballCollision.MarkLaunched();
-        Debug.Log("dragDistanceMultiplier value = " + dragDistanceMultiplier);
+        PlayerPrefs.SetFloat("DragDistanceMultiplier", dragDistanceMultiplier);
     }
 
     void UpdateSliderValue()
