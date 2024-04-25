@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using Unity.VisualScripting;
 
 public class BallCollision : MonoBehaviour
 {
@@ -8,6 +9,8 @@ public class BallCollision : MonoBehaviour
     private ScoreSystem scoreController;
     [SerializeField]
     private GameManager gameManager;
+    public AudioClip ballHitsGround;
+    public AudioClip RewardSound;
 
     private bool hasCollidedWithGround = false;
     private bool hasBeenLaunched = false;
@@ -37,23 +40,27 @@ public class BallCollision : MonoBehaviour
         // Check if the collision is with a plate
         if (collision.gameObject.CompareTag("Plate100"))
         {
+            AudioManager.instance.PlaySound(RewardSound);
             scoreController.UpdateScore(100);
             DestroyBallWithDelay();
 
         }
         else if (collision.gameObject.CompareTag("Plate300"))
         {
+            AudioManager.instance.PlaySound(RewardSound);
             scoreController.UpdateScore(300);
             DestroyBallWithDelay();
         }
         else if (collision.gameObject.CompareTag("Plate500"))
         {
+            AudioManager.instance.PlaySound(RewardSound);
             scoreController.UpdateScore(500);
             DestroyBallWithDelay();
         }
         // Check if the collision is with the ground
         else if (collision.gameObject.CompareTag("Ground") && hasBeenLaunched)
         {
+            AudioManager.instance.PlaySound(ballHitsGround);
             // Check if the ball has already collided with the ground
             if (!hasCollidedWithGround)
             {

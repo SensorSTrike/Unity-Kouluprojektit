@@ -359,6 +359,7 @@
 "Assets/Scripts/Game Over scripts/BackToMenuButton.cs"
 "Assets/Scripts/Game Over scripts/PlayAgainButton.cs"
 "Assets/Scripts/GameManager.cs"
+"Assets/Scripts/GameStartScripts/MixerVolumeControl.cs"
 "Assets/Scripts/GameStartScripts/SettingsPanel.cs"
 "Assets/Scripts/GameStartScripts/SliderController.cs"
 "Assets/Scripts/GameStartScripts/TutorialPanel.cs"

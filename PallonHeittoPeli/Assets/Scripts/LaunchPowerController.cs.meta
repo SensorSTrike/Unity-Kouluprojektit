@@ -6,8 +6,7 @@ MonoImporter:
   defaultReferences:
   - arrowPrefab: {instanceID: 0}
   - launchSlider: {instanceID: 0}
-  - launchSound: {instanceID: 0}
-  - BallLaunchAudioClip: {fileID: 8300000, guid: c2951562e4d2c4d48938a175c156434c, type: 3}
+  - ballLaunchAudioClip: {fileID: 8300000, guid: c2951562e4d2c4d48938a175c156434c, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

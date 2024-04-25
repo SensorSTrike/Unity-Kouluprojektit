@@ -14,7 +14,7 @@ public class AudioManager : MonoBehaviour
         }
         else
         {
-            Destroy(instance);
+            Destroy(gameObject);
         }
     }
     #endregion
@@ -24,5 +24,6 @@ public class AudioManager : MonoBehaviour
     public void PlaySound(AudioClip clip)
     {
         audioSource.PlayOneShot(clip);
+        Debug.Log(" played clip = " + clip);
     }
 }

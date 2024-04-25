@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Peliscene.unity
+- path: Assets/Scenes/PelinAlku.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

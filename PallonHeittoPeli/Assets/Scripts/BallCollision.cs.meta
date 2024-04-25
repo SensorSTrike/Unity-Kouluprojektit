@@ -3,7 +3,10 @@ guid: a4fb768b6bee9ac4f9342ed20e09586a
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - scoreController: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - ballHitsGround: {fileID: 8300000, guid: bb72a0d0eb1deea40b790d70a66cd484, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
