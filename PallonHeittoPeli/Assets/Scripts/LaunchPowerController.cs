@@ -13,8 +13,7 @@ public class LaunchableObject : MonoBehaviour
     private bool isDragging = false;
     private BallCollision ballCollision;
     public float dragDistanceMultiplier;
-    public AudioSource AudioPlayer;
-    public AudioClip BallLaunchAudioClip;
+    [SerializeField] AudioClip ballLaunchAudioClip;
 
 
     public void Start()
@@ -60,14 +59,7 @@ public class LaunchableObject : MonoBehaviour
 
     void OnMouseUp()
     {
-        if (AudioPlayer != null)
-        {
-            AudioPlayer.Play(); 
-        }
-        else
-        {
-            Debug.Log("Audio source not found");
-        }
+        AudioManager.instance.PlaySound(ballLaunchAudioClip);
         isDragging = false; // Reset dragging state when mouse is released
         // Use launchForce for launching object
         Vector3 launchDirection = -(Input.mousePosition - initialMousePosition).normalized;

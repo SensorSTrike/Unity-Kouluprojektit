@@ -70,6 +70,7 @@
     <Compile Include="Assets\Scripts\inGameSettingsButton.cs" />
     <Compile Include="Assets\Scripts\GameStartScripts\SettingsPanel.cs" />
     <Compile Include="Assets\Scripts\Game Over scripts\PlayAgainButton.cs" />
+    <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\TextMeshProGUI.cs" />
     <Compile Include="Assets\Scripts\GameStartScripts\TutorialPanel.cs" />
   </ItemGroup>

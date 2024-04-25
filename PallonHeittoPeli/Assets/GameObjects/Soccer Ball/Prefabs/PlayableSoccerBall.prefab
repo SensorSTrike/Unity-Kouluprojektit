@@ -151,6 +151,7 @@ MonoBehaviour:
   arrowPrefab: {fileID: 2868651624999592541, guid: 9df0893d77f408c45864f6f22bc3ba48, type: 3}
   launchSlider: {fileID: 0}
   dragDistanceMultiplier: 0
+  ballLaunchAudioClip: {fileID: 8300000, guid: c2951562e4d2c4d48938a175c156434c, type: 3}
 --- !u!114 &4795479083723367683
 MonoBehaviour:
   m_ObjectHideFlags: 0
