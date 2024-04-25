@@ -3,7 +3,11 @@ guid: ca31678ed75e848489f794b4d404ede4
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - arrowPrefab: {instanceID: 0}
+  - launchSlider: {instanceID: 0}
+  - launchSound: {instanceID: 0}
+  - BallLaunchAudioClip: {fileID: 8300000, guid: c2951562e4d2c4d48938a175c156434c, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

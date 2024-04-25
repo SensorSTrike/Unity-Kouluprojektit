@@ -68,9 +68,7 @@ public class BallCollision : MonoBehaviour
     private IEnumerator DestroyBallWithDelay()
     {
         float destroyDelay = 1.0f; // Adjust the delay as needed (in seconds)
-        Debug.Log("Destroying ball with delay");
         yield return new WaitForSeconds(destroyDelay);
-        Debug.Log("Delay complete, destroying ball");
         Destroy(gameObject);
         gameManager.RespawnBall();
         scoreController.UpdateRemainingBalls();
