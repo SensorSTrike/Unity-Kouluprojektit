@@ -164,8 +164,8 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
-      "PayloadLength": 78,
-      "PayloadDebugContentSnippet": "C:\\Users\\sekao\\OneDrive\\Tiedos",
+      "PayloadLength": 72,
+      "PayloadDebugContentSnippet": "D:\\Users\\ns004062\\Documents\\Gi",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -176,8 +176,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 278,
-      "PayloadLength": 45453,
+      "PayloadOffset": 272,
+      "PayloadLength": 45480,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -189,9 +189,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 45825,
-      "PayloadLength": 91,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\sekao\\OneDr",
+      "PayloadOffset": 45846,
+      "PayloadLength": 85,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Users\\ns004062\\Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/UnityEngine.TestRunner.rsp2"
@@ -1649,7 +1649,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 46019,
+      "PayloadOffset": 46034,
       "PayloadLength": 5794,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -1814,9 +1814,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 51918,
-      "PayloadLength": 78,
-      "PayloadDebugContentSnippet": "C:\\Users\\sekao\\OneDrive\\Tiedos",
+      "PayloadOffset": 51933,
+      "PayloadLength": 72,
+      "PayloadDebugContentSnippet": "D:\\Users\\ns004062\\Documents\\Gi",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -1827,8 +1827,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 52081,
-      "PayloadLength": 38998,
+      "PayloadOffset": 52090,
+      "PayloadLength": 39025,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -1840,9 +1840,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 91165,
-      "PayloadLength": 91,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\sekao\\OneDr",
+      "PayloadOffset": 91201,
+      "PayloadLength": 85,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Users\\ns004062\\Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.rsp2"
@@ -2180,7 +2180,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 91351,
+      "PayloadOffset": 91381,
       "PayloadLength": 5888,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -2347,9 +2347,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 97347,
-      "PayloadLength": 78,
-      "PayloadDebugContentSnippet": "C:\\Users\\sekao\\OneDrive\\Tiedos",
+      "PayloadOffset": 97377,
+      "PayloadLength": 72,
+      "PayloadDebugContentSnippet": "D:\\Users\\ns004062\\Documents\\Gi",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -2360,8 +2360,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 97513,
-      "PayloadLength": 37022,
+      "PayloadOffset": 97537,
+      "PayloadLength": 37049,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -2373,9 +2373,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 134624,
-      "PayloadLength": 91,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\sekao\\OneDr",
+      "PayloadOffset": 134675,
+      "PayloadLength": 85,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Users\\ns004062\\Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.rsp2"
@@ -2692,7 +2692,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 134813,
+      "PayloadOffset": 134858,
       "PayloadLength": 5964,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -2861,9 +2861,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 140882,
-      "PayloadLength": 78,
-      "PayloadDebugContentSnippet": "C:\\Users\\sekao\\OneDrive\\Tiedos",
+      "PayloadOffset": 140927,
+      "PayloadLength": 72,
+      "PayloadDebugContentSnippet": "D:\\Users\\ns004062\\Documents\\Gi",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -2874,8 +2874,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 141045,
-      "PayloadLength": 38106,
+      "PayloadOffset": 141084,
+      "PayloadLength": 38133,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -2887,9 +2887,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 179237,
-      "PayloadLength": 91,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\sekao\\OneDr",
+      "PayloadOffset": 179303,
+      "PayloadLength": 85,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Users\\ns004062\\Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.rsp2"
@@ -3202,7 +3202,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 179423,
+      "PayloadOffset": 179483,
       "PayloadLength": 5964,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3371,9 +3371,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 185504,
-      "PayloadLength": 78,
-      "PayloadDebugContentSnippet": "C:\\Users\\sekao\\OneDrive\\Tiedos",
+      "PayloadOffset": 185564,
+      "PayloadLength": 72,
+      "PayloadDebugContentSnippet": "D:\\Users\\ns004062\\Documents\\Gi",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -3384,8 +3384,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 185679,
-      "PayloadLength": 85828,
+      "PayloadOffset": 185733,
+      "PayloadLength": 85855,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -3397,9 +3397,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 271605,
-      "PayloadLength": 91,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\sekao\\OneDr",
+      "PayloadOffset": 271686,
+      "PayloadLength": 85,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Users\\ns004062\\Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Core.rsp2"
@@ -4067,7 +4067,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 271803,
+      "PayloadOffset": 271878,
       "PayloadLength": 5964,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4236,9 +4236,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Cinemachine.UnityAdditionalFile.txt",
       "DisplayName": "Writing Cinemachine.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 277869,
-      "PayloadLength": 78,
-      "PayloadDebugContentSnippet": "C:\\Users\\sekao\\OneDrive\\Tiedos",
+      "PayloadOffset": 277944,
+      "PayloadLength": 72,
+      "PayloadDebugContentSnippet": "D:\\Users\\ns004062\\Documents\\Gi",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Cinemachine.UnityAdditionalFile.txt"
@@ -4249,8 +4249,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Cinemachine.rsp",
       "DisplayName": "Writing Cinemachine.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 278029,
-      "PayloadLength": 39506,
+      "PayloadOffset": 278098,
+      "PayloadLength": 39533,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -4262,9 +4262,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Cinemachine.rsp2",
       "DisplayName": "Writing Cinemachine.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 317618,
-      "PayloadLength": 91,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\sekao\\OneDr",
+      "PayloadOffset": 317714,
+      "PayloadLength": 85,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Users\\ns004062\\Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Cinemachine.rsp2"
@@ -4604,7 +4604,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Cinemachine.dll.mvfrm.rsp",
       "DisplayName": "Writing Cinemachine.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 317801,
+      "PayloadOffset": 317891,
       "PayloadLength": 6040,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4775,9 +4775,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 323958,
-      "PayloadLength": 78,
-      "PayloadDebugContentSnippet": "C:\\Users\\sekao\\OneDrive\\Tiedos",
+      "PayloadOffset": 324048,
+      "PayloadLength": 72,
+      "PayloadDebugContentSnippet": "D:\\Users\\ns004062\\Documents\\Gi",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -4788,8 +4788,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 324133,
-      "PayloadLength": 81238,
+      "PayloadOffset": 324217,
+      "PayloadLength": 81265,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -4801,9 +4801,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 405469,
-      "PayloadLength": 91,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\sekao\\OneDr",
+      "PayloadOffset": 405580,
+      "PayloadLength": 85,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Users\\ns004062\\Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.rsp2"
@@ -5465,7 +5465,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 405667,
+      "PayloadOffset": 405772,
       "PayloadLength": 6052,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -5636,9 +5636,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 411837,
-      "PayloadLength": 78,
-      "PayloadDebugContentSnippet": "C:\\Users\\sekao\\OneDrive\\Tiedos",
+      "PayloadOffset": 411942,
+      "PayloadLength": 72,
+      "PayloadDebugContentSnippet": "D:\\Users\\ns004062\\Documents\\Gi",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -5649,8 +5649,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 412013,
-      "PayloadLength": 35242,
+      "PayloadOffset": 412112,
+      "PayloadLength": 35269,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -5662,9 +5662,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 447354,
-      "PayloadLength": 91,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\sekao\\OneDr",
+      "PayloadOffset": 447480,
+      "PayloadLength": 85,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Users\\ns004062\\Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.rsp2"
@@ -5957,7 +5957,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 447553,
+      "PayloadOffset": 447673,
       "PayloadLength": 6140,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -6130,9 +6130,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 453799,
-      "PayloadLength": 78,
-      "PayloadDebugContentSnippet": "C:\\Users\\sekao\\OneDrive\\Tiedos",
+      "PayloadOffset": 453919,
+      "PayloadLength": 72,
+      "PayloadDebugContentSnippet": "D:\\Users\\ns004062\\Documents\\Gi",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -6143,8 +6143,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 453963,
-      "PayloadLength": 32807,
+      "PayloadOffset": 454077,
+      "PayloadLength": 32834,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -6156,7 +6156,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 486857,
+      "PayloadOffset": 486998,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -6459,7 +6459,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 486953,
+      "PayloadOffset": 487094,
       "PayloadLength": 6384,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -6907,7 +6907,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json (+1 other)",
       "DisplayName": "BuildPlayerDataGenerator RuntimeInitializeOnLoads",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll\" -a=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\" -s=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\sekao\\OneDrive\\Tiedostot\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll\" -a=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll\" -a=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\Bee\\PlayerScriptAssemblies\" -s=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"D:\\Users\\ns004062\\Documents\\GitHub\\Unity-Kouluprojektit\\PallonHeittoPeli\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -7135,6 +7135,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aP.dag.json",
-  "PayloadsFile": "C:/Users/sekao/OneDrive/Tiedostot/GitHub/Unity-Kouluprojektit/PallonHeittoPeli/Library/Bee/1900b0aP.dag.payloads",
+  "PayloadsFile": "D:/Users/ns004062/Documents/GitHub/Unity-Kouluprojektit/PallonHeittoPeli/Library/Bee/1900b0aP.dag.payloads",
   "RelativePathToRoot": "../.."
 }
